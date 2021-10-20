@@ -11,6 +11,6 @@ comments: false
 
 |    |    | **Experience**                                                             |
 |----|----|-------------------------------------------------------------------------------|
-|2020| now| **Student**, Computer Sceince Department, IUST, Tehran, Iran |
+|2020| now| **Student**, Computer Science Department, IUST, Tehran, Iran |
 |----|----|-------------------------------------------------------------------------------|
           |
