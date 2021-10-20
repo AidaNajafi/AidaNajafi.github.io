@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  #"default" # "air", "aqua", "contrast", "dark", "dirt", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Aida Najafi"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/001 (2).jpg"
   bio              : Im a university student majoring in computer engineering at IUST. The easiest way to contact me is via email.
   location         : "تهران"
   email            : anmirak81@gmail.com
