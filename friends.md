@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-[آذین هاشم آبادی] : Azinhashemabadi.githup.io
-[فاطمه سادات باقری] : FatemehSadatBagheri.github.io
-[معصومه غفاری] : MasoomehGhaffari.github.io
+[آذین هاشم آبادی]  Azinhashemabadi.githup.io
+[فاطمه سادات باقری]  FatemehSadatBagheri.github.io
+[معصومه غفاری]  MasoomehGhaffari.github.io
 
 
 
